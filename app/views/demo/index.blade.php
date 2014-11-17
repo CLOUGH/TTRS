@@ -45,7 +45,7 @@
 	<div class="row">
 		<div class="large-12 columns" role="content">
 			<div id="map-canvas"></div>
-		</div>
+		</div> 
 	</div>
 	<footer class="row">
 		<div class="large-12 columns">
